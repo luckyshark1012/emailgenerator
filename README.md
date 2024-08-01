@@ -1,7 +1,7 @@
 ```markdown
 # Email Dot Generator
 
-This Node.js program generates possible email addresses by inserting dots at various positions in the local part (before the "@") of the email. The generated emails are saved to a file named `emaillist.txt`.
+This Node.js program generates possible email addresses by inserting dots at various positions in the local part (before the "@") of the email. The generated emails are saved to a file named `emaillist.txt`
 
 ## Features
 
